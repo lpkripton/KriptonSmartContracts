@@ -1,7 +1,7 @@
 # KriptonSmartContracts
 Kripton Smart Contracts 
 
-bsc chain: 0x4bAA4E0c28eBAee3399874132c3cBBF57dB320Cc 
+bsc chain: 0x4bAA4E0c28eBAee3399874132c3cBBF57dB320Cc
 https://bscscan.com/address/0x4baa4e0c28ebaee3399874132c3cbbf57db320cc
 
 polygon chain: 0x9B71b5511998e0798625b8Fa74e86D8192DE78C1 
